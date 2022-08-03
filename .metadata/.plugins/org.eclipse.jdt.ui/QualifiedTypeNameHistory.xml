@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.terra.repository.ProcessRequestRepo"/>
+    <fullyQualifiedTypeName name="com.terra.repository.ProcessResponseRepo"/>
+    <fullyQualifiedTypeName name="com.terra.entity.RepairForIntegralPart"/>
+    <fullyQualifiedTypeName name="com.terra.entity.ReplacementForAccessoryPart"/>
+    <fullyQualifiedTypeName name="com.terra.common.ChargeDetails"/>
+    <fullyQualifiedTypeName name="com.terra.service.ComponentProcessingService"/>
+    <fullyQualifiedTypeName name="com.terra.entity.ProcessResponse"/>
+    <fullyQualifiedTypeName name="com.terra.entity.ProcessRequest"/>
+    <fullyQualifiedTypeName name="org.springframework.cloud.config.server.EnableConfigServer"/>
+    <fullyQualifiedTypeName name="org.springframework.cloud.netflix.eureka.server.EnableEurekaServer"/>
+    <fullyQualifiedTypeName name="com.terra.service.PackagingAndDeliveryService"/>
+    <fullyQualifiedTypeName name="com.terra.entity.PackageAndDeliveryCostDetail"/>
+    <fullyQualifiedTypeName name="com.terra.entity.ChargeDetails"/>
+    <fullyQualifiedTypeName name="org.springframework.cloud.netflix.eureka.EnableEurekaClient"/>
+</qualifiedTypeNameHistroy>
